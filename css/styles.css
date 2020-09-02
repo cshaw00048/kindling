@@ -96,3 +96,15 @@ padding: 7% 15%;
     background: #ef8172;
     color: #fff;
 }
+
+.testimonial-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press {
+    background: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
