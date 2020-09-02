@@ -73,3 +73,11 @@ padding: 7% 15%;
     padding: 5%;
 }
 
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #ff4c68;
+}
