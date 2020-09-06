@@ -66,12 +66,14 @@ p {
     transform: rotate(25deg);
     padding-left: 80px;
     padding-bottom: 40px;
+    z-index: -
 }
 
 /* Features */
 
 #features {
 padding: 7% 15%;
+background-color:#fff;
 }
 
 .feature-box {
