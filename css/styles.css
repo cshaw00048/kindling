@@ -155,6 +155,10 @@ position: relative;
     text-align: center;
 }
 
+.social-icon {
+   margin: 20px 10px;
+}
+
 @media (max-width: 1265px) {
 
     #title {
