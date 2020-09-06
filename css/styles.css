@@ -131,7 +131,13 @@ position: relative;
     padding: 3% 2%;
 }
 
-@media (max-width: 1028px) {
+/* CTA Section */
+
+#cta {
+    background-color: #ff4c68;
+}
+
+@media (max-width: 1265px) {
 
     #title {
        text-align: center; 
@@ -143,5 +149,8 @@ position: relative;
         position: static;
         transform: rotate(0);
         z-index: -1;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
