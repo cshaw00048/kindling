@@ -62,10 +62,10 @@ p {
 
 /* Title Image */
 .title-image {
-    width: 40%;
+    width: 30%;
     transform: rotate(25deg);
-    padding-left: 80px;
-    padding-bottom: 40px;
+    /* padding-left: 80px;
+    padding-bottom: 40px; */
     position: absolute;
 }
 
