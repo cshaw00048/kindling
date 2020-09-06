@@ -135,6 +135,13 @@ position: relative;
 
 #cta {
     background-color: #ff4c68;
+    color: #fff;
+    padding: 7% 15%;
+}
+
+.cta-heading {
+    font-family: "Montserrat";
+    font-weight: 900;
 }
 
 @media (max-width: 1265px) {
