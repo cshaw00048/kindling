@@ -8,11 +8,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
 }
 
-h2 {
-    font-size: 3rem;
-    line-height: 1.5;
-}
-
 h3 {
     font-size: 1.5rem;
 }
@@ -30,11 +25,18 @@ p {
     color: #8f8f8f;
 }
 
-.bigheading {
+/* Headings */
+
+.big-heading {
     font-family: 'Montserrat', sans-serif;
     font-size: 3.5rem;
     font-weight: 700;
     line-height: 1.5; 
+}
+
+.section-heading {
+    font-size:3rem;
+    line-height: 1.5;
 }
 
 /* Navigation Bar */
