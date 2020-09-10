@@ -69,6 +69,7 @@ p {
 .title-image {
     width: 35%;
     position: absolute;
+    border: solid;
     left: 48%;
     top: 18%
 }
@@ -134,6 +135,11 @@ position: relative;
 
 .pricing-column {
     padding: 3% 2%;
+}
+
+.price-text {
+    font-size: 3rem;
+    line-height: 1.5;
 }
 
 /* CTA Section */
