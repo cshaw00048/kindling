@@ -113,10 +113,6 @@ position: relative;
     margin: 20px;
 }
 
-.carousel-item {
-    padding: 7% 15%;
-}
-
 .testimonial-text {
     font-size: 3rem;
     line-height: 1.5;
@@ -153,7 +149,6 @@ position: relative;
 #cta {
     background-color: #ff4c68;
     color: #fff;
-    padding: 7% 15%;
 }
 
 .cta-heading {
@@ -164,10 +159,6 @@ position: relative;
 }
 
 /* Footer Section */
-
-#footer {
-    padding: 7% 15%;
-}
 
 .social-icon {
    margin: 20px 10px;
