@@ -114,6 +114,11 @@ position: relative;
     padding: 7% 15%;
 }
 
+.testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
 
 #press {
     background: #ef8172;
